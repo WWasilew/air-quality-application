@@ -1,0 +1,212 @@
+114     Wrocław, ul. Bartnicza
+117     Wrocław, wyb. Conrada-Korzeniowskiego
+129     Wrocław, al. Wiśniowa
+52      Legnica, al. Rzeczypospolitej
+109     Wałbrzych, ul. Wysockiego
+11      Czerniawa
+16      Dzierżoniów, ul. Piłsudskiego
+38      Kłodzko, ul. Szkolna
+70      Oława, ul. Żołnierzy Armii Krajowej
+74      Osieczów
+9153    Jelenia Góra, ul. Ogińskiego
+11254   Nowa Ruda, ul. Jeziorna
+11934   Trzebnica, ul. 3 Maja
+12055   Strzegom
+12056   Chojnów, ul. S. Małachowskiego
+17780   Kudowa-Zdrój, ul. Szkolna
+156     Bydgoszcz, pl. Poznański
+158     Bydgoszcz, ul. Warszawska
+16237   Lubsko, ul. Strzelecka
+16613   Nowa Sól
+295     Łódź, ul. Czernika
+296     Łódź, ul. Gdańska
+314     Pabianice, ul. Konstantynowska
+355     Zgierz, ul. Mielczarskiego
+10058   Łódź, al. Jana Pawła II
+291     Gajew, Ujęcie Wody
+319     Parzniewice, Ujęcie Wody
+322     Piotrków Trybunalski, ul. Krakowskie Przedmieście
+331     Radomsko, ul. Rolna
+562     Żyrardów, ul. Roosevelta
+9913    Guty Duże
+11358   Biała, ul. Kmicica
+16271   Konstancin-Jeziorna, ul. Żeromskiego
+17160   Pułtusk, ul. Mickiewicza
+590     Opole, os. Armii Krajowej
+10374   Opole, ul. Koszyka
+568     Kędzierzyn-Koźle, ul. Śmiałego
+584     Olesno, ul. Słowackiego
+600     Zdzieszowice, ul. Piastów
+8976    Nysa, ul. Rodziewiczówny
+10018   Głubczyce, ul. Ratuszowa
+16181   Strzelce Opolskie, ul. Kard. Wyszyńskiego
+16413   Brzeg, ul. Poprzeczna
+671     Rzeszów, ul. Rejtana
+10125   Rzeszów, ul. Piłsudskiego
+17159   Rzeszów, ul. Słocińska
+17179   Rzeszów, ul. Starzyńskiego
+631     Jarosław, ul. Pruchnicka
+638     Jaslo, ul. Sikorskiego
+646     Krosno, ul. Kletówki
+659     Nisko, ul. Szklarniowa
+665     Przemyśl, ul. Grunwaldzka
+678     Sanok, ul. Sadowa
+684     Tarnobrzeg, ul. Dąbrowskiej
+870      Gołdap, ul. Jaćwieska
+882     Diabla Góra, Puszcza Borecka
+10005   Ełk, ul. Piłsudskiego
+10030   Ostróda, ul. Piłsudskiego
+17741   Działdowo, ul. Polna
+944     Poznań, ul. Dąbrowskiego
+16493   Poznań ul. Szwajcarska
+952     Kalisz, ul. Wyszyńskiego
+902     Konin, ul. Wyszyńskiego
+920     Pila, ul. Kusocińskiego
+946     Piaski, Krzyżówka
+950     Borówiec, ul. Drapałka
+9218    Pleszew, Al. Mickiewicza
+10834   Koziegłowy, os.Leśne
+16495   Mosina, ul. Czereśniowa
+17438   Kościan, ul. Maya
+986     Szczecin, ul. Andrzejewskiego
+987     Szczecin, ul. Piłsudskiego
+989     Szczecin_Łączna
+16270   Bytów Mobilna
+805     Dąbrowa Górnicza, ul. Tysiąclecia
+809     Gliwice, ul. Mewy
+813     Katowice, ul. Plebiscytowa/A4
+814     Katowice, ul. Kossutha
+837     Sosnowiec, ul. Lubelska
+841     Tychy, ul. Tołstoja
+17880   Zabrze, ul. M. Skłodowskiej-Curie
+834     Rybnik, ul. Borki
+10554   Żory, Os. Gen. Władysława Sikorskiego
+11855   Jastrzębie-Zdrój, Al.J.Piłsudskiego/Harcerska
+789     Bielsko-Biała, ul. Kossak-Szczuckiej
+10158   Bielsko-Biała, ul.Partyzantów
+798     Częstochowa, ul. AK/Jana Pawła II
+800     Częstochowa, ul. Baczyńskiego
+842     Ustroń, ul. Sanatoryjna
+845     Wodzisław Śląski, ul. Gałczyńskiego
+853     Złoty Potok, Leśniczówka
+856     Żywiec, ul. Kopernika
+9000    Czerwionka-Leszczyny, ul. Kopalniana
+11278   Lubliniec, ul. ks. Szymały
+11455   Zawiercie, ul. K.I.Gałczyńskiego
+11457   Goczałkowice Zdrój, ul. Parkowa
+11794   Racibórz, Wojska Polskiego
+16406   Cieszyn, ul. Chopina
+11195   Kielce, ul. Targowa
+16196   Kielce, ul. Warszawska 108
+16497   Kielce, ul. Jurajska
+769     Nowiny, ul. Parkowa
+778     Połaniec, ul. Ruszczańska
+785     Starachowice, ul. Złota
+10794   Małogoszcz, ul. Słoneczna
+11754   Gołuchów, Ujęcie Wody
+12138   Łagów, ul. Zapłotnia
+17758   Skarżysko-Kamienna, ul. 1 Maja
+877      Olsztyn, ul. Puszkina
+861     Elbląg, ul. Bażyńskiego
+11554   Łask, ul. Narutowicza
+11616   Kutno, ul. 1 Maja
+400     Kraków, Aleja Krasińskiego
+401     Kraków, ul. Bujaka
+402     Kraków, ul. Bulwarowa
+10123   Kraków, ul. Złoty Róg
+10139   Kraków, os. Piastów
+10447   Kraków, os. Wadów
+11303   Kraków, os. Swoszowice
+444     Tarnów, ul. Bitwy pod Studziankami
+10120   Tarnów, ul. Ks. Romana Sitko
+426     Nowy Sącz, ul. Nadbrzeżna
+9173    Dębica, ul.Grottgera
+9175    Krempna, Ośrodek edukacyjno-muzealny MPN
+10414   Rymanów Zdrój, ul. Parkowa
+10438   Mielec, ul. Biernackiego
+12057   Boguchwała, ul. Angermana
+609     Białystok, ul. Warszawska
+11174   Białystok, ul. 42 Pułku Piechoty
+11814   Białystok, al.Piłsudskiego
+17658   Białystok, ul. Upalna
+612     Borsukowizna, Szkółka Leśna
+618     Łomża, ul. Sikorskiego
+9994    Grajewo, ul. Wojska Polskiego
+11154   Suwałki, ul. Pułaskiego 26
+11916   Augustów, Uzdrowisko
+731     Gdańsk, ul. Wyzwolenia
+732     Gdynia, ul. Porębskiego
+736     Gdańsk, ul. Leczkowa
+16242   Sopot, ul. Bitwy Pod Płowcami
+725     Słupsk, ul. Kniaziewicza
+740     Kościerzyna, ul. Targowa
+741     Malbork, ul. Mickiewicza
+742     Lębork, ul. Malczewskiego
+743     Liniewko Kościerskie
+750     Łeba, IMGW
+437     Skawina, os. Ogrody
+443     Szymbark
+449     Trzebinia, os. Związku Walki Młodych
+455     Niepołomice, ul. 3 Maja
+459     Zakopane, ul. Sienkiewicza
+9179    Szarów, ul. Spokojna
+10119   Kaszów
+10124   Sucha Beskidzka, ul. Nieszczyńskiej
+10446   Rabka-Zdrój, ul. Orkana
+10814   Oświęcim, ul. J. Bema
+11301   Olkusz, ul. Cegielniana
+11434   Zabierzów, ul. Wapienna
+16753   Myślenice
+16894   Nowy Targ, al. Tysiąclecia
+17118   Wysowa-Zdrój, Park Zdrojowy
+17138   Muszyna, Lodowisko
+530     Warszawa, al. Niepodległości
+538     Warszawa, ul. Tołstoja
+550     Warszawa, ul. Wokalna
+552     Warszawa, ul. Kondratowicza
+10955   Warszawa, ul. Chrościckiego
+10956   Warszawa, ul. Bajkowa
+16533   Warszawa, IMiGW
+497     Płock, ul. Królowej Jadwigi
+501     Płock, ul. Reja
+515     Radom, ul. Tochtermana
+460     Belsk Duży, IGF PAN
+466     Granica, KPN
+471     Legionowo, ul. Zegrzyńska
+485     Otwock, ul. Brzozowa
+488     Piastów, ul. Pułaskiego
+517     Siedlce, ul. Konarskiego
+9798    Nakło nad Notecią, ul. Św. Wawrzyńca
+12038   Świecie, al. Jana Pawła II
+266     Lublin, ul. Obywatelska
+236     Biała Podlaska, ul. Orzechowa
+248     Jarczew, IMGW
+275     Radzyń Podlaski, ul. Sitkowskiego
+282     Wilczopole
+285     Zamość, ul. Hrubieszowska
+10874   Florianka, RPN
+12100   Łuków, Bulwar 100-lecia Odzyskania Niepodległości
+361     Gorzów Wlkp. ul. Kosynierów Gdyńskich
+387     Zielona Góra ul. Krótka
+11294   Zielona Góra,ul.Wyszyńskiego
+374     Smolary Bytnickie
+376     Sulęcin ul. Dudka
+379     Wschowa ul. Kazimierza Wielkiego
+382     Żary, ul. Szymanowskiego
+11576   Bydgoszcz, ul. Jeździecka
+145     Toruń, ul. Wały gen. Sikorskiego
+206     Toruń, ul. Dziewulskiego
+208     Toruń, ul. Przy Kaszowniku
+225     Włocławek, ul. Okrzei
+9791    Włocławek, ul. Kaliska
+142     Grudziądz, ul. Piłsudskiego
+143     Inowrocław, ul. Solankowa
+164     Ciechocinek, ul. Tężniowa
+190     Koniczynka, Pojezierze Chełmińskie
+232     Zielonka, Bory Tucholskie
+966     Koszalin, ul. Armii Krajowej
+11336   Koszalin, ul. Chopina
+961     Widuchowa
+983     Szczecinek, ul. Przemysłowa
+10934   Kołobrzeg, ul. Żółkiewskiego
+17158   Dąbki, ul. Sztormowa
