@@ -2,7 +2,8 @@
 
 ![image alt](https://github.com/WWasilew/air-quality-application/blob/1ed3b7af44d843302add04fcf8e0b5a29b5e7bab/Air-quality_app.png)
 
-Air Quality Application is a Python-based tool that provides real-time air quality data for locations in Poland. The application fetches data from the official [GIOŚ API](https://powietrze.gios.gov.pl/) and visualizes the results in an easy-to-understand chart. 
+Air Quality Application is a Python-based tool that provides real-time air quality data for locations in Poland. The application fetches data from the official [GIOŚ API](https://powietrze.gios.gov.pl/) and visualizes the results in an easy-to-understand chart.
+
 Stay informed about air quality and make healthier decisions! ✨
 
 ## Features
